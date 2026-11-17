@@ -1,6 +1,6 @@
 # FinSight Financial Analytics | Power BI Case Study
 
-![Executive Dashboard](images/01_executive_dashboard.png)
+![](Cover_Image.png)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-1D4ED8?style=flat)
@@ -72,22 +72,22 @@ The Managing Director's concern: *"Revenue is surging, but our profit margins ar
 ### 1. Executive Dashboard
 KPI cards, YoY comparison, monthly trend of revenue vs costs, and a Revenue MoM % chart. A Year slicer (single year or All) controls the page.
 
-![Executive Dashboard](images/01_executive_dashboard.png)
+![Executive Dashboard](01_executive_dashboard.png)
 
 ### 2. P&L Statement
 A standardised income statement matrix: Revenue, Cost of Sales, Gross Profit, Operating Expenses, Operating Profit, Other Income, Other Expenses, Net Profit Before Tax. Expands from year level to monthly columns.
 
-![P&L Statement](images/02_pl_statement.png)
+![P&L Statement](02_pl_statement.png)
 
 ### 3. Cost Drivers
 Operating expenses by P&L group and by department, net profit by branch, and a transaction status breakdown.
 
-![Cost Drivers](images/03_cost_drivers.png)
+![Cost Drivers](03_cost_drivers.png)
 
 ### 4. Management Narrative
 A one-page summary of the findings, drivers and three recommendations, placed next to the key KPIs.
 
-![Management Narrative](images/04_management_narrative.png)
+![Management Narrative](04_management_narrative.png)
 
 ---
 
@@ -95,7 +95,7 @@ A one-page summary of the findings, drivers and three recommendations, placed ne
 
 A strict **star schema** with one fact table (about 4,500 transactions), four dimensions from the source workbook, and a dynamic date table built in DAX.
 
-![Data Model](images/data_model.png)
+![Data Model](Data_model.png)
 
 | Table | Type | Purpose |
 |---|---|---|
