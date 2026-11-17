@@ -13,19 +13,39 @@
 ---
 
 ## Table of Contents
+1. [Introduction](#introduction)
+2. [Business Problem](#business-problem)
+3. [Key Findings](#key-findings)
+4. [Report Pages](#report-pages)
+5. [Data Model](#data-model)
+6. [Data Preparation](#data-preparation)
+7. [DAX Highlights](#dax-highlights)
+8. [Recommendations](#recommendations)
+9. [Conclusion](#conclusion)
+10. [Skills Demonstrated](#skills-demonstrated)
+11. [Repository Structure](#repository-structure)
+12. [How to Open the Report](#how-to-open-the-report)
+13. [About Me](#about-me)
 
-1. [Business Problem](#business-problem)
-2. [Key Findings](#key-findings)
-3. [Report Pages](#report-pages)
-4. [Data Model](#data-model)
-5. [Data Preparation](#data-preparation)
-6. [DAX Highlights](#dax-highlights)
-7. [Recommendations](#recommendations)
-8. [Conclusion](#conclusion)
-9. [Skills Demonstrated](#skills-demonstrated)
-10. [Repository Structure](#repository-structure)
-11. [How to Open the Report](#how-to-open-the-report)
-12. [About Me](#about-me)
+---
+
+## Introduction
+
+This project is an end-to-end financial analytics and reporting solution developed in Power BI for FinSight Distribution & Consumer Products Ltd., a fictional Nigerian FMCG distribution company.
+
+The company relied on static, error-prone Excel workbooks for financial reporting. Meanwhile, management observed a concerning trend: revenue was growing rapidly, but profit margins were declining.
+
+Using approximately 4,500 financial transactions covering 2024 and 2025, I cleaned, transformed, and modelled the data in Power BI. I developed a monthly Profit and Loss (P&L) statement and investigated the key cost drivers affecting the company's profitability.
+
+The project culminated in a four-page interactive Power BI report comprising:
+
+    - Executive Dashboard: An overview of financial performance and key metrics.
+
+    - Profit and Loss Statement: A detailed view of revenue, expenses, and profitability.
+
+    - Cost Drivers Analysis: An investigation into the major factors contributing to rising costs.
+
+    - Management Narrative: Key findings, business insights, and actionable recommendations.
 
 ---
 
