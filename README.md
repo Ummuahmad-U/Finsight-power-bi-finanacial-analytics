@@ -230,17 +230,15 @@ Diesel and generator fuel, freight, and importation and customs costs account fo
 ## Repository Structure
 
 ```
-finsight-power-bi-financial-analytics/
 ├── README.md
 ├── FinSight_Financial_Analytics_Project.pbix
-├── data/
-│   └── FinSight_Financial_Analytics_Project.xlsx
-└── images/
-    ├── 01_executive_dashboard.png
-    ├── 02_pl_statement.png
-    ├── 03_cost_drivers.png
-    ├── 04_management_narrative.png
-    └── data_model.png
+├── FinSight_Financial_Analytics.xlsx
+├── Cover_Image.png
+├── 01_executive_dashboard.png
+├── 02_pl_statement.png
+├── 03_cost_drivers.png
+├── 04_management_narrative.png
+└── Data_model.png
 ```
 
 ---
@@ -249,7 +247,7 @@ finsight-power-bi-financial-analytics/
 
 1. Download `FinSight_Financial_Analytics_Project.pbix`.
 2. Open it in **Power BI Desktop** (free for Windows).
-3. If Power BI shows a data source error, go to **Home > Transform data > Data source settings > Change Source**, and point it to the Excel file in the `data/` folder.
+3. If Power BI shows a data source error, go to **Home > Transform data > Data source settings > Change Source**, and point it to the Excel file in the folder.
 4. Set the Year slicer to **2025** to see the year-on-year figures.
 
 ---
@@ -258,9 +256,9 @@ finsight-power-bi-financial-analytics/
 
 **Rukayat** | Computer Science student, building a data analytics portfolio.
 
-- LinkedIn: [add your link]
-- Email: [add your email]
-- Portfolio: [add your link]
+- LinkedIn: [https://www.linkedin.com/in/rukayat-abdulraheem]
+- Email: [ummuahmadolasumbo@gmail.com]
+- Portfolio: [https://github.com/Ummuahmad-U]
 
 ---
 
